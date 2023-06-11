@@ -11,4 +11,5 @@
 <img src="https://github.com/ahmetburakozturk/NotificationExapmle-Swift/assets/79537376/a98b32a2-e48a-4d2d-b49e-773e4db470f8" alt="ahmetburakozturk" width="200" height="415"/>  
 <img src="https://github.com/ahmetburakozturk/NotificationExapmle-Swift/assets/79537376/7fd2ffdd-135f-43ce-8d31-650f15531c24" alt="ahmetburakozturk" width="200" height="415"/> </p>
 
- <p>If you want the give me a feedback: <a href="mailto:ahmetburakozturk28@gmail.com">ahmetburakozturk28@gmail.com</a></p>
+</br>
+<p>If you want the give me a feedback: <a href="mailto:ahmetburakozturk28@gmail.com">ahmetburakozturk28@gmail.com</a></p>
